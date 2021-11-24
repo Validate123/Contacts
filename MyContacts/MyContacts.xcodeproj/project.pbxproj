@@ -562,7 +562,7 @@
 				DEVELOPMENT_TEAM = 64XG8SJYXU;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyContacts/Info.plist;
-				INFOPLIST_KEY_NSContactsUsageDescription = "The MyContacts Application want to get your all contacts";
+				INFOPLIST_KEY_NSContactsUsageDescription = "This app requires contacts access to function properly.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -591,7 +591,7 @@
 				DEVELOPMENT_TEAM = 64XG8SJYXU;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyContacts/Info.plist;
-				INFOPLIST_KEY_NSContactsUsageDescription = "The MyContacts Application want to get your all contacts";
+				INFOPLIST_KEY_NSContactsUsageDescription = "This app requires contacts access to function properly.";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
