@@ -21,7 +21,5 @@
 			</array>
 		</dict>
 	</dict>
-	<key>NSContactsUsageDescription</key>
-	<string>The MyContacts Application want to get your all contacts</string>
 </dict>
 </plist>
